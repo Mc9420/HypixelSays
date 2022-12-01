@@ -1,0 +1,5 @@
+name: HypixelSays
+version: '${project.version}'
+main: me.misoryan.hypixelsays.HypixelSays
+authors: [ Misoryan ]
+description: Hypixel Says
